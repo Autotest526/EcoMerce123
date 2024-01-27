@@ -1,0 +1,75 @@
+08:30:06.573 [main] INFO  testClases.TC_001_AccountRegistration - Launched Chrome browser
+08:30:06.627 [main] INFO  testClases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+08:30:11.220 [main] INFO  testClases.TC_001_AccountRegistration - Clicked on Register
+08:30:12.126 [main] INFO  testClases.TC_001_AccountRegistration - Provided Firstname
+08:30:12.279 [main] INFO  testClases.TC_001_AccountRegistration - Provided Lastname
+08:30:12.465 [main] INFO  testClases.TC_001_AccountRegistration - Provided Address
+08:30:12.621 [main] INFO  testClases.TC_001_AccountRegistration - Provided City
+08:30:12.763 [main] INFO  testClases.TC_001_AccountRegistration - Provided distic
+08:30:12.918 [main] INFO  testClases.TC_001_AccountRegistration - Provided pincode
+08:30:13.028 [main] INFO  testClases.TC_001_AccountRegistration - Provided Mobile Number
+08:30:13.123 [main] INFO  testClases.TC_001_AccountRegistration - Provided SSN Number
+08:30:13.293 [main] INFO  testClases.TC_001_AccountRegistration - Provided Email
+08:30:13.441 [main] INFO  testClases.TC_001_AccountRegistration - Provided Password
+08:30:13.588 [main] INFO  testClases.TC_001_AccountRegistration - Provided Confpassword
+08:30:15.036 [main] INFO  testClases.TC_001_AccountRegistration - Click on Register button
+08:30:15.166 [main] INFO  testClases.TC_001_AccountRegistration - Account register successfully
+08:30:15.565 [main] INFO  testClases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+08:56:32.436 [main] INFO  testClases.TC_001_AccountRegistration - Launched Chrome browser
+08:56:32.509 [main] INFO  testClases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+08:56:37.010 [main] INFO  testClases.TC_001_AccountRegistration - Clicked on Register
+08:56:37.839 [main] INFO  testClases.TC_001_AccountRegistration - Provided Firstname
+08:56:38.004 [main] INFO  testClases.TC_001_AccountRegistration - Provided Lastname
+08:56:38.123 [main] INFO  testClases.TC_001_AccountRegistration - Provided Address
+08:56:38.267 [main] INFO  testClases.TC_001_AccountRegistration - Provided City
+08:56:38.452 [main] INFO  testClases.TC_001_AccountRegistration - Provided distic
+08:56:38.586 [main] INFO  testClases.TC_001_AccountRegistration - Provided pincode
+08:56:38.728 [main] INFO  testClases.TC_001_AccountRegistration - Provided Mobile Number
+08:56:38.839 [main] INFO  testClases.TC_001_AccountRegistration - Provided SSN Number
+08:56:38.960 [main] INFO  testClases.TC_001_AccountRegistration - Provided Email
+08:56:39.102 [main] INFO  testClases.TC_001_AccountRegistration - Provided Password
+08:56:39.255 [main] INFO  testClases.TC_001_AccountRegistration - Provided Confpassword
+08:56:41.037 [main] INFO  testClases.TC_001_AccountRegistration - Click on Register button
+08:56:41.132 [main] INFO  testClases.TC_001_AccountRegistration - Account register successfully
+08:56:41.576 [main] INFO  testClases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+09:08:24.928 [main] INFO  testClases.TC_001_AccountRegistration - Launched Chrome browser
+09:08:24.994 [main] INFO  testClases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+09:08:29.129 [main] INFO  testClases.TC_001_AccountRegistration - Clicked on Register
+09:08:30.087 [main] INFO  testClases.TC_001_AccountRegistration - Provided Firstname
+09:08:30.193 [main] INFO  testClases.TC_001_AccountRegistration - Provided Lastname
+09:08:30.320 [main] INFO  testClases.TC_001_AccountRegistration - Provided Address
+09:08:30.484 [main] INFO  testClases.TC_001_AccountRegistration - Provided City
+09:08:30.645 [main] INFO  testClases.TC_001_AccountRegistration - Provided distic
+09:08:30.784 [main] INFO  testClases.TC_001_AccountRegistration - Provided pincode
+09:08:30.948 [main] INFO  testClases.TC_001_AccountRegistration - Provided Mobile Number
+09:08:31.108 [main] INFO  testClases.TC_001_AccountRegistration - Provided SSN Number
+09:08:31.294 [main] INFO  testClases.TC_001_AccountRegistration - Provided Email
+09:08:31.454 [main] INFO  testClases.TC_001_AccountRegistration - Provided Password
+09:08:31.619 [main] INFO  testClases.TC_001_AccountRegistration - Provided Confpassword
+09:08:33.543 [main] INFO  testClases.TC_001_AccountRegistration - Click on Register button
+09:08:33.677 [main] INFO  testClases.TC_001_AccountRegistration - Account register successfully
+09:08:34.036 [main] INFO  testClases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+23:12:41.921 [main] INFO  testClases.TC_001_AccountRegistration - Launched Chrome browser
+23:12:41.975 [main] INFO  testClases.TC_001_AccountRegistration - Starting TC_001_AccountRegistration
+23:12:47.760 [main] INFO  testClases.TC_001_AccountRegistration - Clicked on Register
+23:12:48.533 [main] INFO  testClases.TC_001_AccountRegistration - Provided Firstname
+23:12:48.702 [main] INFO  testClases.TC_001_AccountRegistration - Provided Lastname
+23:12:48.817 [main] INFO  testClases.TC_001_AccountRegistration - Provided Address
+23:12:48.971 [main] INFO  testClases.TC_001_AccountRegistration - Provided City
+23:12:49.079 [main] INFO  testClases.TC_001_AccountRegistration - Provided distic
+23:12:49.215 [main] INFO  testClases.TC_001_AccountRegistration - Provided pincode
+23:12:49.314 [main] INFO  testClases.TC_001_AccountRegistration - Provided Mobile Number
+23:12:49.413 [main] INFO  testClases.TC_001_AccountRegistration - Provided SSN Number
+23:12:49.581 [main] INFO  testClases.TC_001_AccountRegistration - Provided Email
+23:12:49.678 [main] INFO  testClases.TC_001_AccountRegistration - Provided Password
+23:12:49.801 [main] INFO  testClases.TC_001_AccountRegistration - Provided Confpassword
+23:12:50.460 [main] INFO  testClases.TC_001_AccountRegistration - Click on Register button
+23:12:50.529 [main] INFO  testClases.TC_001_AccountRegistration - Account register successfully
+23:12:50.893 [main] INFO  testClases.TC_001_AccountRegistration -  Finished TC_001_AccountRegistration 
+23:12:52.511 [main] INFO  testClases.TC_002_Login - Launched Chrome browser
+23:12:52.517 [main] INFO  testClases.TC_002_Login -  Starting TC_002_Login 
+23:12:57.021 [main] INFO  testClases.TC_002_Login - Home Page Displayed 
+23:12:57.382 [main] INFO  testClases.TC_002_Login - Provided Email 
+23:12:57.532 [main] INFO  testClases.TC_002_Login - Provided Password 
+23:12:58.478 [main] INFO  testClases.TC_002_Login - Clicked on Login
+23:13:08.554 [main] ERROR testClases.TC_002_Login - Login Failed 
